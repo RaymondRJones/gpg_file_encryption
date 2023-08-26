@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1443.0",
+    "openpgp": "^5.9.0"
+  }
+}
